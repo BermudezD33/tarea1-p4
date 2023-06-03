@@ -1,5 +1,4 @@
 # tarea1-p4
-# Tarea
 Usando los conceptos vistos en clase, crear una vista similar a la imagen adjunta utilizando un ConstraintLayout y los componenentes visuales vistos en clase de:
  - TextView
  - ImageView
