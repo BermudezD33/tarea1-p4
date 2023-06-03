@@ -6,5 +6,6 @@
     <string name="profile_lastname2">Segundo Apellido</string>
     <string name="profile_phone">Teléfono</string>
     <string name="profile_save">Guardar Perfil</string>
+    <string name="phone_number">8888 8888</string>
 
 </resources>
