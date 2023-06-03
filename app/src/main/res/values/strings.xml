@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">tarea4-p4</string>
+    <string name="app_name">tarea1-p4</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_name">Nombre</string>
+    <string name="profile_lastname">Primer Apellido</string>
+    <string name="profile_lastname2">Segundo Apellido</string>
+    <string name="profile_phone">Teléfono</string>
+    <string name="profile_save">Guardar Perfil</string>
+
 </resources>
